@@ -1,0 +1,24 @@
+//font-family: 'Comforter Brush', cursive;
+
+*font-family: 'Great Vibes', cursive;
+
+//font-family: 'Kolker Brush', cursive;
+
+font-family: 'Love Light', cursive;
+
+font-family: 'Mea Culpa', cursive;
+
+font-family: 'Moon Dance', cursive;
+
+*font-family: 'Oooh Baby', cursive;
+
+*font-family: 'Parisienne', cursive;
+
+font-family: 'Quattrocento Sans', sans-serif;
+
+font-family: 'Qwitcher Grypen', cursive;
+
+font-family: 'Ropa Sans', sans-serif;
+
+font-family: 'Tangerine', cursive;
+
